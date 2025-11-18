@@ -1,7 +1,0 @@
-Una empresa maneja ventas de varias sucursales. El programa debe recibir una cantidad de empresas y, para cada empresa, el monto por cada venta (No es dato, 0 indica fin de montos). 
-Ademas si la empresa es estatal no paga un impuesto del 15% sobre el total de la factural y si es privada si lo paga. (E si es estatal, P si es Privada) El programa debe calcular e imprimir:
-
-1. El monto total de ventas para cada empresa.
-2. El nombre de la empresa que mas facturo.
-3. Porcentaje de empresas estatales que superen un monto X ingresado por teclado.
-

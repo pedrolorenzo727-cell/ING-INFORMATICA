@@ -1,9 +1,0 @@
-aaaaa 2 10
-bbbbb 4 6
-ccccc 5 10
-aaaaa 6 4
-fffff 1 8
-aaaaa 7 6
-bbbbb 7 10
-ccccc 6 3
-aaaaa 3 5

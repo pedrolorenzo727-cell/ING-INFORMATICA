@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej12.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="61"/>
+        <CursorPos X="80" Y="69"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Ej11\ej11.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Estudio fuera de cuatrimestre\TPS\TP5\Ej12\Ej12.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="74"/>
+        <CursorPos X="69" Y="98"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\Programacion 1\Repaso\Primer Parcial (Parte Dos)\adicional.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\Programacion 1\Repaso\Segundo Parcial\EjParcial2021\ejparcial2021.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="130"/>
+        <CursorPos X="30" Y="25"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Programacion I\Practica 5\12\Ejercicio12.lpr"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="99"/>
+        <CursorPos X="22" Y="99"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="39" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="40" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="37" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="39" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="40" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="37" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="39" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="40" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="37" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="42" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="44" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="45" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="46" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="45" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="48" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="50" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="51" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="52" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="53" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="55" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="21" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="57" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="18" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="58" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="18" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="58" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="10" Column="64"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="84" Column="31" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="69" Column="83" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="ej12.lpr"/>
+        <Caret Line="108" Column="11" TopLine="85"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

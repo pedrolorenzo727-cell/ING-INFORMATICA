@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej4.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="74"/>
+        <CursorPos X="118" Y="96"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ej4.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="45" Y="30"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="ej4.lpr"/>
+        <Caret Line="92" Column="3" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="ej4.lpr"/>
+        <Caret Line="91" Column="32" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="ej4.lpr"/>
+        <Caret Line="99" Column="10" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="ej4.lpr"/>
+        <Caret Line="54" Column="37" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="ej4.lpr"/>
+        <Caret Line="73" Column="20" TopLine="59"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej7.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="31"/>
+        <CursorPos X="3" Y="49"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Estudio fuera de cuatrimestre\TPS\TP8\Ej6\Ej6B.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Estudio fuera de cuatrimestre\TPS\TP8\Ej7\Ej7.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="36"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Segundo Parcial\2°Parcial 1C 2024\Ejercicio 2\ej2.lpr"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="23" Y="117"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="42" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="45" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="47" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="34" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="37" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="47" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="34" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="37" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="47" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="34" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="37" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="47" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="34" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="37" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="47" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="42" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="45" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="47" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="34" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="37" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="47" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="34" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="37" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="47" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="34" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="37" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="47" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="34" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="37" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="47" TopLine="35"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ej7.lpr"/>
+        <Line Value="29"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

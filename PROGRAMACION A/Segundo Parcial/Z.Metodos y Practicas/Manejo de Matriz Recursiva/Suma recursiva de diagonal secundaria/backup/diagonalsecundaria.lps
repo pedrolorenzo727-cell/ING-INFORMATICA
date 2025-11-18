@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="16"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="20">
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="27" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="6" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="27" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="30" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="27" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="30" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="27" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="30" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="27" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="28" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="31" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="22" Column="130" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="27" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="30" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="27" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="30" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="27" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="30" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="27" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="28" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="diagonalsecundaria.lpr"/>
+        <Caret Line="31" TopLine="16"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

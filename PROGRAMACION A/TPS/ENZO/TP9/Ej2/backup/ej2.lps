@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="94"/>
+        <CursorPos X="10" Y="99"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Laureano\Trabajos Practicos\TP9\Ejercicio 2\Cargador\project1.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Laureano\Trabajos Practicos\TP9\Ejercicio 2\Problema\project1.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="56"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Programacion I\Practica 9\2\CargaTarjetas.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Programacion I\Practica 9\2\Ejercicio2.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="68"/>
+        <CursorPos X="30" Y="91"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="102" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="103" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="104" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="105" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="80" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="81" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="82" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="83" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="82" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="83" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="82" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="84" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="85" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="88" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="106" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="108" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="99" Column="8" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="100" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="102" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="103" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="104" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="105" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="106" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="108" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="109" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="110" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="112" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="113" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="100" Column="21" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="132" Column="40" TopLine="114"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

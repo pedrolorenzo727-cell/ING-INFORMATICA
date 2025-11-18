@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej6b.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="45"/>
+        <CursorPos X="141" Y="71"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\a\ej6.lpr"/>
+        <UnitName Value="ej6a"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Primer Parcial\ParteB\Repaso de Metodos y Tecnicas\Busqueda BInaria\busquedabinaria.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="20" Y="24"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Segundo Parcial\Z.Metodos y Practicas\Inserta Ordenado Recursivo\insertaordenadorec.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="15" Y="11"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\..\..\..\AppData\Local\Microsoft\Windows\INetCache\IE\9FW8I3WY\ej2[1].lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="58" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="59" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="62" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="63" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="58" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="59" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="62" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="63" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="58" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="59" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="62" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="63" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="58" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="67" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="70" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="71" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="84" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="58" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="59" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="62" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="65" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="58" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="59" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="62" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="65" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="58" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="59" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="62" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="65" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ej6b.lpr"/>
+        <Caret Line="58" TopLine="45"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ej6b.lpr"/>
+        <Line Value="58"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

@@ -1,0 +1,10 @@
+Blas
+60 30
+Franco
+20 40
+Guillin
+35 45
+Mari
+40 55
+Pedro
+70 40

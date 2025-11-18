@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="47"/>
+        <CursorPos Y="63"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="72" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="73" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="75" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="77" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="78" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="80" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="81" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="86" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="73" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="70" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="72" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="73" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="75" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="85" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="86" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="73" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="70" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="89" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="90" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="61" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="63" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="64" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="65" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="94" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="96" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="97" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="98" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="94" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="61" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="ej.lpr"/>
+        <Caret Line="63" TopLine="47"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

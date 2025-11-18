@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej23.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="39"/>
+        <CursorPos X="115" Y="61"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ArchE.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ej23S.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="61" Column="72"/>
+      </Position>
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="21" Column="13" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="28" Column="29" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="30" Column="56" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="45" Column="75" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="57" Column="61" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="21" Column="22" TopLine="7"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

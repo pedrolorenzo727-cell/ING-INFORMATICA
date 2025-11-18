@@ -1,0 +1,14 @@
+2
+Nombre1
+4 5
+5 6
+Nombre2
+1 5
+4 4
+Nombre3
+6 1
+5 1
+Nombre4
+5 4
+1 6
+XXX

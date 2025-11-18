@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej5.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="103"/>
+        <CursorPos X="24" Y="181"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Estudio fuera de cuatrimestre\TPS\TP6\Ej5\ej5.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="162"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Laureano\Trabajos Practicos\TP6\Ejercicio 5\project1.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="97"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="ej5.lpr"/>
+        <Caret Line="56" Column="16" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="ej5.lpr"/>
+        <Caret Line="14" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="ej5.lpr"/>
+        <Caret Line="27" Column="28" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ej5.lpr"/>
+        <Caret Line="109" Column="30" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="ej5.lpr"/>
+        <Caret Line="134" Column="60" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="ej5.lpr"/>
+        <Caret Line="159" Column="75" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="ej5.lpr"/>
+        <Caret Line="181" Column="79" TopLine="156"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="9"/>
+        <CursorPos X="21" Y="25"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="32" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="44" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="45" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="16" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="29" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="16" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="17" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="19" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="20" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="16" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="17" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="24" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="32" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="30" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="32" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="44" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="45" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="16" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="29" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="16" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="17" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="19" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="20" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="16" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="17" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="24" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="32" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="30" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="32" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="44" TopLine="21"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

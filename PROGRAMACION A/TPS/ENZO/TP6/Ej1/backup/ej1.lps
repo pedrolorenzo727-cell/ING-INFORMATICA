@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="85"/>
+        <CursorPos X="31" Y="108"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Estudio fuera de cuatrimestre\TPS\TP6\Ej1\Ej1.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="71"/>
+        <CursorPos X="28" Y="94"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="96" Column="12" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="108" Column="12" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="14" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="19" Column="25" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="84" Column="44" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="ej1.lpr"/>
+        <Caret Line="109" Column="22" TopLine="85"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

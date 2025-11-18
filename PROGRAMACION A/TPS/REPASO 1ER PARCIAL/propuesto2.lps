@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="propuesto2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="80"/>
+        <CursorPos X="76" Y="95"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="propuesto2.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="12" Y="15"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="propuesto2.lpr"/>
+        <Caret Line="99" Column="107" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="propuesto2.lpr"/>
+        <Caret Line="25" Column="79" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="propuesto2.lpr"/>
+        <Caret Line="27" Column="7" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="propuesto2.lpr"/>
+        <Caret Line="38" Column="10" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="propuesto2.lpr"/>
+        <Caret Line="28" Column="5" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="propuesto2.lpr"/>
+        <Caret Line="69" Column="50" TopLine="77"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej9.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="16"/>
+        <CursorPos X="39" Y="32"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ej9.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="8" Y="3"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="33" Column="3" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="41" Column="10" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="6" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="22" Column="49" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="38" Column="45" TopLine="17"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

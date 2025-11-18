@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="18"/>
+        <CursorPos X="19" Y="28"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Estudio fuera de cuatrimestre\TPS\TP5\Ej3\ej3.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Laureano\Trabajos Practicos\TP5\Ejercicio 3\project1.lpr"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="13" Y="16"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Programacion I\Practica 3\3\Ejercicio3.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Programacion I\Practica 5\3\Ejercicio3.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\..\..\AppData\Local\Temp\Rar$DIa2152.47072\guia3_ej24.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="15"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\..\..\AppData\Local\Temp\Rar$DIa2152.2758\guia3_ej16.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\..\..\AppData\Local\Temp\Rar$DIa9448.9894\palabraempieza.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="33" Y="15"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\..\..\AppData\Local\Temp\Rar$DIa13584.20647\parcial_1a_8_4_24.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="1">
+      <Position>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="45" Column="24" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="3" Column="16"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

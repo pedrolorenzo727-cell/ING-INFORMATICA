@@ -1,0 +1,21 @@
+3
+Julio Rodriguez
+0 7 5
+Hernan Perez 
+6 3 6
+Julieta Martinez 
+6 0 6
+Maria Gonzalez 
+3 0 6
+Eduardo Duarte 
+6 6 3
+Emilia Martinez 
+4 6 7
+Daniela Marsh 
+7 0 3
+Felipe Stuart 
+1 10 2
+Sandro Si 
+10 1 0
+Amelia Ridd 
+9 7 6 

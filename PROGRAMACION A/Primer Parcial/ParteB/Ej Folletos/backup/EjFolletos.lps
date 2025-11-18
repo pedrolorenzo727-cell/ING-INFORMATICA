@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EjFolletos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="82"/>
+        <CursorPos X="22" Y="93"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="44" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="45" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="47" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="48" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="45" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="47" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="48" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="45" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="47" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="48" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="45" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="47" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="48" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="45" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="47" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="48" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="45" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="50" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="52" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="53" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="38" Column="20" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="91" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="10" Column="13" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="87" Column="26" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="92" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="91" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="55" Column="46" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="91" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="75" Column="28" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="EjFolletos.lpr"/>
+        <Caret Line="91" TopLine="69"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1757453600 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_4\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fracciones.h"
+
+1757449519 c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_4\ej1\fracciones.h
+
+1757453429 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_4\ej1\fracciones.c
+	<stdio.h>
+	"fracciones.h"
+

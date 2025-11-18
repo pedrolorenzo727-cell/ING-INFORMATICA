@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1758198960 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej11\colase.c
+	"colasE.h"
+
+1758218265 c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej11\colase.h
+
+1758298349 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej11\main.c
+	<stdio.h>
+	"colasE.h"
+	<string.h>
+

@@ -1,0 +1,10 @@
+Martin Lopez     AB123CD  1  26.5
+Carla Fernandez  XZ987YU  2  21.3
+Sergio Romero    GH456LK  3  28.0
+Lucia Gomez      MN321OP  4  30.2
+Andres Molina    QR789ST  1  24.7
+Maria Torres     CD654EF  4  32.0
+Hernan Ibarra    KL321GH  2  23.4
+Valentina Ruiz   UV123WX  3  27.1
+Gustavo Mendez   BD987HJ  1  25.6
+Natalia Aguirre  TR456MN  4  29.9

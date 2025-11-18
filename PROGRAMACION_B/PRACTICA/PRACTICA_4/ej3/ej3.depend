@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1757593358 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_4\ej3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"contactos.h"
+
+1757592863 c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_4\ej3\contactos.h
+
+1757593516 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_4\ej3\agenda.c
+	<stdio.h>
+	<string.h>
+	"contactos.h"
+

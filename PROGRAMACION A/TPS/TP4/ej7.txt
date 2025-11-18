@@ -1,0 +1,51 @@
+3
+Mercantil S.A
+S
+10500000
+15200000
+7800000
+Comercial Andina S.A
+S
+12500000
+16200000
+8900000
+Industrias del Sur S.A
+N
+9800000
+13400000
+7200000
+Servicios Globales S.A
+S
+11500000
+15800000
+8100000
+Transporte Rápido S.A
+N
+10700000
+14900000
+7650000
+Tecnologías Avanzadas S.A
+S
+13200000
+17500000
+920
+Distribuidora del Norte S.A
+N
+10200000
+14000000
+7500000
+Construcciones Modernas S.A
+S
+12800000
+16800000
+8950000
+Energía Limpia S.A
+N
+9900000
+13800000
+7300000
+Soluciones Financieras S.A
+S
+11900000
+16000000
+8450000

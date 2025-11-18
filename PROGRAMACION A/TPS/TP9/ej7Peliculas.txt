@@ -1,0 +1,20 @@
+A01 El Gran Escape       130
+A02 Misterios del Bosque 105
+A03 Viaje Estelar        120
+A04 Amor en París        95
+A05 El Último Guerrero   140
+A06 Sombras del Pasado   110
+A07 Comedia Inesperada   100
+A08 Bajo Cero            115
+A09 La Herencia Maldita  125
+A10 El Laberinto         135
+A11 Voces del Viento     90
+A12 Código Mortal        102
+A13 Amanecer de Hierro   145
+A14 Historias Cruzadas   150
+A15 Robo Perfecto        110
+A16 En la Mira           95
+A17 Noche de Juegos      100
+A18 El Silencio Eterno   160
+A19 Destino Final        118
+A20 El Refugio Secreto   108

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej16.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="10"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="entrada.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="13" Y="12"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="40" Column="5" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="29" Column="24" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="38" Column="34" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="18" Column="9" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="13" Column="12" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="21" Column="11" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="15" Column="11" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="17" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="5" Column="31"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="23" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="17" Column="16" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="18" Column="11" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="40" Column="16" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="18" Column="10" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ej16.lpr"/>
+        <Caret Line="13" Column="19"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

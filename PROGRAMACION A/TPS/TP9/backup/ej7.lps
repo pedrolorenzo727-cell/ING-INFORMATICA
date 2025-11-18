@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej7.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="146"/>
+        <CursorPos X="4" Y="159"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ej7Cines.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="10"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ej7Ventas.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="12" Y="20"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ej7Peliculas.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="29" Y="20"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="168" Column="10" TopLine="142"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="107" Column="10" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="127" Column="49" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="150" Column="25" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="155" Column="38" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="84" Column="27" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="98" Column="21" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="96" Column="40" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="62" Column="21" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="147" Column="24" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="170" Column="6" TopLine="157"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="156" Column="20" TopLine="147"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

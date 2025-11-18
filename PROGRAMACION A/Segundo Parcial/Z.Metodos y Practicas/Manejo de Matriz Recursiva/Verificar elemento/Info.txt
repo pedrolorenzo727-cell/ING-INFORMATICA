@@ -1,0 +1,2 @@
+Verificar si un elemento se encuentra por lo menos una vez en cada fila y en cada columna de la matriz
+ 

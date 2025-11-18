@@ -1,0 +1,30 @@
+Nueva York     01
+Londres        02
+Paris          03
+Roma           04
+Tokio          05
+Buenos Aires   06
+Madrid         07
+Berlin         08
+Sidney         09
+El Cairo       10
+Rio Janeiro    11
+Amsterdam      12
+Los Angeles    13
+Barcelona      14
+Atenas         15
+Moscu          16
+Pekin          17
+Viena          18
+Lisboa         19
+Dubai          20
+Estocolmo      21
+Oslo           22
+Seul           23
+Praga          24
+Varsovia       25
+Zurich         26
+Copenhague     27
+Bruselas       28
+Lima           29
+Montevideo     30

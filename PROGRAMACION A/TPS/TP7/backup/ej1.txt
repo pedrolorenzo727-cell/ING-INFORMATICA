@@ -1,0 +1,16 @@
+Ana Rodriguez  12 03 1985
+Martin Perez   25 07 1990
+Laura Gomez    08 11 1982
+Juan Fernandez 14 02 1978
+Mariana Torres 30 05 1995
+Diego Ramirez  22 09 1988
+Ceci Herrera   03 01 1983
+Pablo Diaz     10 10 1975
+Camila Sosa    17 04 1992
+Nicolas Castro 06 06 1987
+Valeria Medina 29 12 1980
+Sergio Luna 19 08 1993
+Florencia Rios 04 03 1989
+Gustavo Molina 27 07 1979
+Lucia Paredes  11 01 1991
+

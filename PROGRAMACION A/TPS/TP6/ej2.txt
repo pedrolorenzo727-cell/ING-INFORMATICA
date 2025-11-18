@@ -1,0 +1,11 @@
+4
+Ana     8 7 9 6
+Bruno   5 6 4 7
+Carla   10 9 8 10
+Diego   6 5 7 4
+Elena   9 9 10 8
+Facundo 3 4 6 5
+Gina    7 8 9 6
+Hugo    2 3 4 5
+Irene   6 7 8 7
+Juan    5 5 6 5

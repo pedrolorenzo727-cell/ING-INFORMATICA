@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej9.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Programacion I\Practica 8\9\Ejercicio9.lpr"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="19"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="27" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="28" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="16"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="14" Column="27"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="16"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="13"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ej9.lpr"/>
+        <Caret Line="18"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ej9.lpr"/>
+        <Line Value="5"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

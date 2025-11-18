@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1488546183"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\Usuario\Desktop\FACULTAD\2 DO AÑO\1er Cuatrimestre\PROGRAMACION 1 recursada\TPS\TP3\lib\x86_64-win64&quot; &quot;-FuC:\Users\Usuario\Desktop\FACULTAD\2 DO AÑO\1er Cuatrimestre\PROGRAMACION 1 recursada\TPS\TP3\&quot; &quot;-FUC:\Users\Usuario\Desktop\FACULTAD\2 DO AÑO\1er Cuatrimestre\PROGRAMACION 1 recursada\TPS\TP3\lib\x86_64-win64\&quot; &quot;-FEC:\Users\Usuario\Desktop\FACULTAD\2 DO AÑO\1er Cuatrimestre\PROGRAMACION 1 recursada\TPS\TP3\&quot; &quot;-oC:\Users\Usuario\Desktop\FACULTAD\2 DO AÑO\1er Cuatrimestre\PROGRAMACION 1 recursada\TPS\TP3\ej15b.exe&quot; ej15b.lpr"/>
+</CONFIG>

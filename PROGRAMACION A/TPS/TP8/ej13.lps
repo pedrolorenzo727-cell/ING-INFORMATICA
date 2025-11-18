@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej13.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="118"/>
+        <CursorPos X="33" Y="125"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="9">
+      <Position>
+        <Filename Value="ej13.lpr"/>
+        <Caret Line="146" Column="75" TopLine="125"/>
+      </Position>
+      <Position>
+        <Filename Value="ej13.lpr"/>
+        <Caret Line="8" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="ej13.lpr"/>
+        <Caret Line="29" Column="64" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="ej13.lpr"/>
+        <Caret Line="40" Column="41" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="ej13.lpr"/>
+        <Caret Line="53" Column="46" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="ej13.lpr"/>
+        <Caret Line="152" Column="10" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="ej13.lpr"/>
+        <Caret Line="154" Column="170" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="ej13.lpr"/>
+        <Caret Line="158" Column="145" TopLine="133"/>
+      </Position>
+      <Position>
+        <Filename Value="ej13.lpr"/>
+        <Caret Line="157" Column="146" TopLine="133"/>
+      </Position>
+      <Position>
+        <Filename Value="ej13.lpr"/>
+        <Caret Line="132" Column="12" TopLine="111"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

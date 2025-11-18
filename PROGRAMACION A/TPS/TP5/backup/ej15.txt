@@ -1,0 +1,24 @@
+Juan Pérez      AB123CD  1  25.5
+Transportes SRL XZ987YU  3  18.0
+Campo Norte     GH456LK  4  32.75
+Granos del Sur  AB123CD  2  20.0
+AgroNova        MN321OP  1  27.0
+El Trigal       QR789ST  1  22.3
+Transportes SRL XZ987YU  4  35.5
+Campo Norte     CD654EF  3  19.2
+Logística Sur   KL321GH  2  28.4
+AgroNova        UV123WX  1  24.0
+Juan Pérez      BD987HJ  4  31.6
+Campo Norte     TR456MN  3  29.0
+Juan Pérez      GH456LK  2  21.8
+Granos del Sur  AB123CD  1  26.5
+Transportes SRL XZ987YU  4  34.0
+AgroNova        MN321OP  3  30.0
+El Trigal       QR789ST  4  23.5
+Logística Sur   KL321GH  1  26.9
+AgroNova        UV123WX  2  20.5
+Campo Norte     CD654EF  1  27.8
+Juan Pérez      BD987HJ  3  19.9
+Campo Norte     TR456MN  4  36.0
+Granos del Sur  GH456LK  1  22.4
+

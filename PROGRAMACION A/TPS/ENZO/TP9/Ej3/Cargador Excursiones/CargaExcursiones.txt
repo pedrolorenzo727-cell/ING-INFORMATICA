@@ -1,0 +1,60 @@
+E01
+Paseo Sierras  
+1000
+200
+E02
+Paseo Laguna   
+1500
+250
+E03
+City Tour      
+800
+150
+E04
+Viaje Barco    
+1200
+300
+E05
+Visita Museos  
+700
+100
+E06
+Tour Gast.     
+1100
+400
+E07
+Exc. Bicicleta 
+900
+150
+E08
+Safari Foto    
+1300
+250
+E09
+Tour Historico 
+850
+200
+E10
+Paseo Globo    
+2000
+500
+E11
+Rally 4x4      
+1600
+350
+E12
+Cam. Nocturna  
+750
+100
+E13
+Tour Arte Urb. 
+950
+150
+E14
+Visita Playa   
+1400
+300
+E15
+Escalada Roca  
+1800
+400

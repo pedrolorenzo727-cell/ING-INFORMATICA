@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1757617436 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej10\pilas.c
+	"pilas.h"
+	<stdlib.h>
+
+1758195591 c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej10\pilas.h
+
+1758196918 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilas.h"
+

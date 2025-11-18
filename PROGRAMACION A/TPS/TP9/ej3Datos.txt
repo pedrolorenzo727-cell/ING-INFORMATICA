@@ -1,0 +1,15 @@
+MAR Mar en Catamaran    12000    2500
+TRE Tren a las Sierras  9500     1800
+GLA Glaciar Sur         18000    3200
+SAL Salinas Grandes     8700     1500
+CUE Cueva del Milodon   14000    2700
+VOL Volcan Aventura     10500    2000
+BOS Bosque Encantado    9900     1700
+LAG Lago Escondido      11300    2400
+CIR Circuito Chico      9700     1800
+BAR Bariloche Nieve     15800    3100
+MIS Misiones Magicas    13400    2900
+CPL Capital Historica   7600     1200
+PUN Punta Tombo         8800     1600
+PAI Paisajes del Sur    10200    2100
+TER Termas Naturales    9200     1500

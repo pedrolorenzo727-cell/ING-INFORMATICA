@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="cargalegajos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="34"/>
+        <CursorPos Y="60"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\..\..\index.pas"/>
+        <UnitName Value="cargaventas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="5" Y="59"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="cargalegajos.lpr"/>
+        <Caret Line="58" Column="12" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="cargalegajos.lpr"/>
+        <Caret Line="38" Column="92" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\..\..\..\..\..\index.pas"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

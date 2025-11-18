@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej23.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="24"/>
+        <CursorPos X="89" Y="46"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="62" Column="16" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="32" Column="35" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="35" Column="40" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="60" Column="14" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="ej23.lpr"/>
+        <Caret Line="61" Column="60" TopLine="38"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

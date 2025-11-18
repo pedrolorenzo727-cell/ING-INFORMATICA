@@ -1,0 +1,56 @@
+Juan Perez
+3
+10.50
+N
+7.30
+S
+5.00
+N
+Ana Lopez
+2
+15.00
+S
+12.00
+N
+Carlos Garcia
+4
+9.75
+N
+8.50
+S
+10.00
+N
+6.25
+S
+Maria Rodriguez
+1
+20.00
+S
+Luis Martinez
+5
+5.50
+S
+3.30
+N
+7.25
+N
+6.80
+S
+4.00
+N
+Laura Fernandez
+2
+14.50
+N
+11.00
+S
+Jorge Sanchez
+3
+8.90
+N
+7.40
+N
+12.00
+S
+
+

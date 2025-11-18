@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej7.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="7"/>
+        <CursorPos X="115" Y="25"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Programacion I\Practica 2\7\Ejercicio7.lpr"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="24" Y="19"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Archivos Lucas y Laureano\Laureano\Trabajos Practicos\TP2\Ejercicio 7\project1.lpr"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="20"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="30" Column="12" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="13" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="31" Column="47" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ej7.lpr"/>
+        <Caret Line="28" Column="51" TopLine="9"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

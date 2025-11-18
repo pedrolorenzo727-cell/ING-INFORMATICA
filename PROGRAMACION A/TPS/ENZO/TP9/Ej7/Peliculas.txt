@@ -1,0 +1,15 @@
+P01 The Last Adventure             120
+P02 Galactic Wars                  105
+P03 Mystery of the Old Manor       95
+P04 Love in Paris                  110
+P05 The Great Heist                100
+P06 Journey to the Unknown         130
+P07 The Silent Forest              90
+P08 Rise of the Phoenix            115
+P09 A Day in Tokyo                 98
+P10 Legends of the Sea             125
+P11 The Haunted Castle             85
+P12 Dreams of Tomorrow             105
+P13 The Lost Treasure              95
+P14 Shadows in the Dark            110
+P15 The Secret Garden              100

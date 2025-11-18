@@ -1,0 +1,15 @@
+Carlos    8
+Lucia     15
+Martin    19
+Sofia     25
+Alejo     42
+Camila    31
+Jorge     65
+Valeria   4
+Tomas     22
+Paula     73
+Sebas     40
+Clara     12
+Fede      55
+Daniel    90
+Maria     26

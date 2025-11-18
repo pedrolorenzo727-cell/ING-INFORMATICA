@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1758198960 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej15\colase.c
+	"colasE.h"
+
+1758800043 c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej15\colase.h
+	"tipos.h"
+
+1757617436 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej15\pilas.c
+	"pilas.h"
+	<stdlib.h>
+
+1758802157 c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej15\pilas.h
+	"tipos.h"
+
+1758799927 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipos.h"
+	"colasE.h"
+	"pilas.h"
+
+1758802081 c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_5\ej15\tipos.h
+

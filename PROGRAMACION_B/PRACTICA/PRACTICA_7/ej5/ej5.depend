@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1760381394 source:c:\users\usuario\desktop\facultad\2do_a—o\2do_cuatrimestre\programacion_b\practica\practica_7\ej5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

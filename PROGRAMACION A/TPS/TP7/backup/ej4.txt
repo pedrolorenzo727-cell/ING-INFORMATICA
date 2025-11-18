@@ -1,0 +1,31 @@
+River Plate           10 P G P G E E P E E G
+Boca Juniors          10 G E G G E E G G E E
+Racing Club           10 P P G P G P G P G E
+Independiente         10 P P E G E E P G E G
+San Lorenzo           10 E G G G P E G E P G
+Huracán               10 G E G E P G G E P P
+Vélez Sarsfield       10 G P P E G E P P E G
+Argentinos Juniors    10 E G P P E E G E G E
+Lanús                 10 E G P E P P E G E P
+Banfield              10 E G P P P E P G P E
+Rosario Central       10 P P G G P G P E E P
+Newell's Old Boys     10 G E P G G E E P E P
+Estudiantes (LP)      10 E G G G P E G P G P
+Gimnasia (LP)         10 E E G E P G E E G E
+Defensa y Justicia    10 E G E G P E P P P E
+Arsenal               10 P P E E P P G E G G
+Tigre                 10 E E P E E P E G E P
+Unión                 10 G G G P G E G E P E
+Colón                 10 P P G P G P P P E P
+Atlético Tucumán      10 P P P E P P G P P P
+Central Córdoba (SdE) 10 P G G P E G G P E P
+Barracas Central      10 E P G G E P G G G G
+Platense              10 G G E E P E E G G E
+Sarmiento (Junín)     10 E E G E P G P E E G
+Godoy Cruz            10 E G G E G P P P G P
+Instituto             10 E P E E G P P E E E
+Belgrano              10 G G G E P E G P P E
+Talleres              10 P G P G P E G P E G
+Deportivo Riestra     10 G G E P P G P G G P
+Independiente (Riv)   10 P G G E P P G E E G
+
